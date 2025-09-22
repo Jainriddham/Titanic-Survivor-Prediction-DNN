@@ -1,5 +1,3 @@
-# Titanic-Survivor-Prediction-DNN
-Deep Neural Network (DNN) model for predicting Titanic passenger survival using TensorFlow and TFLearn. Includes data preprocessing, feature engineering, model training, and prediction.
 # 🛳️ Titanic Survivor Prediction - Deep Neural Network
 
 This project builds a **Deep Neural Network (DNN)** using **TensorFlow + TFLearn** to predict the survival probability of Titanic passengers.  
